@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background: rgb(15,106,133);
+    background: linear-gradient(90deg, rgba(15,106,133,1) 0%, rgba(57,46,106,1) 39%, rgba(39,21,160,1) 68%, rgba(5,43,122,1) 100%);
+    }
+    input{
+    background:#00aaff;
+    margin:10px;
+    }
+    button{
+    background:#00587e;
+    }
+    h1 {
+    color: black;
+    }
